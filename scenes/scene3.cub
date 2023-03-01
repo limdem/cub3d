@@ -1,0 +1,18 @@
+NO ./texture/brown.xpm
+SO ./texture/red.xpm
+WE ./texture/grey1.xpm
+EA ./texture/index.xpm
+
+F 159, 20 , 255
+C 29, 89, 254
+
+   111
+  10001
+ 1011101
+101000101
+1010N0101
+101000101
+ 1011101
+  10001
+   111
+   
